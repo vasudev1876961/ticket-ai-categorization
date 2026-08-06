@@ -2,6 +2,8 @@
 
 A lightweight, self-contained machine learning classifier and automated workflow router for internal IT and HR support tickets. It groups user inquiries, queries mock databases, runs backend workflows, and generates natural language responses.
 
+🌐 **Live Deployment**: [https://vasudev1876961-ticket-ai-categorization-app-rdb5sw.streamlit.app/](https://vasudev1876961-ticket-ai-categorization-app-rdb5sw.streamlit.app/)
+
 ---
 
 ## 🏛️ Architecture & Workflow
