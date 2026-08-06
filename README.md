@@ -34,10 +34,11 @@ graph TD
 ## 📂 Project Structure
 
 ```text
-├── app.py          # Streamlit UI dashboard and system orchestration
-├── classifier.py   # Machine Learning model training & classification engine
-├── actions.py      # Automated workflows, email templates & mock databases
-└── README.md       # Project documentation (this file)
+├── app.py            # Streamlit UI dashboard and system orchestration
+├── classifier.py     # Machine Learning model training & classification engine
+├── actions.py        # Automated workflows, email templates & mock databases
+├── requirements.txt  # Python packages list for Streamlit Cloud deployment
+└── README.md         # Project documentation (this file)
 ```
 
 ---
